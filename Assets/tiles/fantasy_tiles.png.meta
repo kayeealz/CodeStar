@@ -1,0 +1,5904 @@
+fileFormatVersion: 2
+guid: d142b8c5e04ddd1408b2d0804a26ea4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6662565204649364380
+    second: fantasy_tiles_0
+  - first:
+      213: -1624003861974401332
+    second: fantasy_tiles_1
+  - first:
+      213: 5101362107868137874
+    second: fantasy_tiles_2
+  - first:
+      213: 6432640423992848145
+    second: fantasy_tiles_3
+  - first:
+      213: 8235612628201169333
+    second: fantasy_tiles_4
+  - first:
+      213: 3898082867724450358
+    second: fantasy_tiles_5
+  - first:
+      213: 5207590590696960705
+    second: fantasy_tiles_6
+  - first:
+      213: 4182676872872638213
+    second: fantasy_tiles_7
+  - first:
+      213: 344956842665507116
+    second: fantasy_tiles_8
+  - first:
+      213: 2221624024527250616
+    second: fantasy_tiles_9
+  - first:
+      213: 5171226467306748785
+    second: fantasy_tiles_10
+  - first:
+      213: 2599831402642760102
+    second: fantasy_tiles_11
+  - first:
+      213: 5853236126692193188
+    second: fantasy_tiles_12
+  - first:
+      213: -9131662521137719122
+    second: fantasy_tiles_13
+  - first:
+      213: -8260360460857994852
+    second: fantasy_tiles_14
+  - first:
+      213: 8688697165469159034
+    second: fantasy_tiles_15
+  - first:
+      213: 7910124144602978632
+    second: fantasy_tiles_16
+  - first:
+      213: 4880413232139628179
+    second: fantasy_tiles_17
+  - first:
+      213: 7816601238960247882
+    second: fantasy_tiles_18
+  - first:
+      213: -2331783537162240698
+    second: fantasy_tiles_19
+  - first:
+      213: 3847983422083649898
+    second: fantasy_tiles_20
+  - first:
+      213: 1925874560598302333
+    second: fantasy_tiles_21
+  - first:
+      213: -7097181023111852194
+    second: fantasy_tiles_22
+  - first:
+      213: -2905181737981292253
+    second: fantasy_tiles_23
+  - first:
+      213: -1922114583086510329
+    second: fantasy_tiles_24
+  - first:
+      213: -7891197414572789165
+    second: fantasy_tiles_25
+  - first:
+      213: 1265231854928040971
+    second: fantasy_tiles_26
+  - first:
+      213: 3685124431481435033
+    second: fantasy_tiles_27
+  - first:
+      213: 7188612145878244644
+    second: fantasy_tiles_28
+  - first:
+      213: -5620717376213359280
+    second: fantasy_tiles_29
+  - first:
+      213: -1292399109212978999
+    second: fantasy_tiles_30
+  - first:
+      213: 2336759014329062104
+    second: fantasy_tiles_31
+  - first:
+      213: 5545132139372607176
+    second: fantasy_tiles_32
+  - first:
+      213: -859192162209732974
+    second: fantasy_tiles_33
+  - first:
+      213: 489723872960099725
+    second: fantasy_tiles_34
+  - first:
+      213: -5472114892916538281
+    second: fantasy_tiles_35
+  - first:
+      213: -1819935912678416116
+    second: fantasy_tiles_36
+  - first:
+      213: -4090081854984438656
+    second: fantasy_tiles_37
+  - first:
+      213: -7567800881678458113
+    second: fantasy_tiles_38
+  - first:
+      213: -8987270493011234582
+    second: fantasy_tiles_39
+  - first:
+      213: 2188566212628838455
+    second: fantasy_tiles_40
+  - first:
+      213: -7799518444293939078
+    second: fantasy_tiles_41
+  - first:
+      213: -5323482368413665917
+    second: fantasy_tiles_42
+  - first:
+      213: -4818191915296333524
+    second: fantasy_tiles_43
+  - first:
+      213: 4176589580267497674
+    second: fantasy_tiles_44
+  - first:
+      213: -5323239652936086166
+    second: fantasy_tiles_45
+  - first:
+      213: 8510554286045773664
+    second: fantasy_tiles_46
+  - first:
+      213: 359432059290383405
+    second: fantasy_tiles_47
+  - first:
+      213: -1688323825352332819
+    second: fantasy_tiles_48
+  - first:
+      213: 5753856767107057495
+    second: fantasy_tiles_49
+  - first:
+      213: 878443004839139566
+    second: fantasy_tiles_50
+  - first:
+      213: 7096957298416059539
+    second: fantasy_tiles_51
+  - first:
+      213: -2717986054864164682
+    second: fantasy_tiles_52
+  - first:
+      213: -1057481385714127556
+    second: fantasy_tiles_53
+  - first:
+      213: -8829660946971127614
+    second: fantasy_tiles_54
+  - first:
+      213: 7806491590249677033
+    second: fantasy_tiles_55
+  - first:
+      213: 7011180034516030434
+    second: fantasy_tiles_56
+  - first:
+      213: -8300855495086096627
+    second: fantasy_tiles_57
+  - first:
+      213: 2243171442282595243
+    second: fantasy_tiles_58
+  - first:
+      213: -5738388715962853683
+    second: fantasy_tiles_59
+  - first:
+      213: -8833524477775148757
+    second: fantasy_tiles_60
+  - first:
+      213: -3085054629934454640
+    second: fantasy_tiles_61
+  - first:
+      213: -6913241269072540209
+    second: fantasy_tiles_62
+  - first:
+      213: 5819180337721312649
+    second: fantasy_tiles_63
+  - first:
+      213: 7203676639835433930
+    second: fantasy_tiles_64
+  - first:
+      213: -4857727654215560844
+    second: fantasy_tiles_65
+  - first:
+      213: -2783756894799414536
+    second: fantasy_tiles_66
+  - first:
+      213: -3039392350720478145
+    second: fantasy_tiles_67
+  - first:
+      213: 5664070933732697176
+    second: fantasy_tiles_68
+  - first:
+      213: -7072998559341061035
+    second: fantasy_tiles_69
+  - first:
+      213: -9168653321311687984
+    second: fantasy_tiles_70
+  - first:
+      213: -4644894840203908259
+    second: fantasy_tiles_71
+  - first:
+      213: -4616255538729547154
+    second: fantasy_tiles_72
+  - first:
+      213: -1397424936839587441
+    second: fantasy_tiles_73
+  - first:
+      213: 5491893474765690471
+    second: fantasy_tiles_74
+  - first:
+      213: 2416563190433461783
+    second: fantasy_tiles_75
+  - first:
+      213: 7021867830503468394
+    second: fantasy_tiles_76
+  - first:
+      213: 6989327671742759359
+    second: fantasy_tiles_77
+  - first:
+      213: -6668695556215440490
+    second: fantasy_tiles_78
+  - first:
+      213: 1697202171279263323
+    second: fantasy_tiles_79
+  - first:
+      213: -99329569840608539
+    second: fantasy_tiles_80
+  - first:
+      213: -2273568810277817507
+    second: fantasy_tiles_81
+  - first:
+      213: -5637485338321523917
+    second: fantasy_tiles_82
+  - first:
+      213: 8300243045913157887
+    second: fantasy_tiles_83
+  - first:
+      213: -581712969853175083
+    second: fantasy_tiles_84
+  - first:
+      213: 5354456753063391836
+    second: fantasy_tiles_85
+  - first:
+      213: 8822200232651379063
+    second: fantasy_tiles_86
+  - first:
+      213: -2013220537077742151
+    second: fantasy_tiles_87
+  - first:
+      213: 3720551570167594009
+    second: fantasy_tiles_88
+  - first:
+      213: -7673358840107094747
+    second: fantasy_tiles_89
+  - first:
+      213: -8386782443666372257
+    second: fantasy_tiles_90
+  - first:
+      213: 1539830737340616244
+    second: fantasy_tiles_91
+  - first:
+      213: -7000580888800269541
+    second: fantasy_tiles_92
+  - first:
+      213: 2297665160348562127
+    second: fantasy_tiles_93
+  - first:
+      213: 371427842992399881
+    second: fantasy_tiles_94
+  - first:
+      213: 477474217742966437
+    second: fantasy_tiles_95
+  - first:
+      213: 2225717124388242136
+    second: fantasy_tiles_96
+  - first:
+      213: 3330758058869578119
+    second: fantasy_tiles_97
+  - first:
+      213: -4438291132115353630
+    second: fantasy_tiles_98
+  - first:
+      213: 371122318067602858
+    second: fantasy_tiles_99
+  - first:
+      213: 3367295504455252566
+    second: fantasy_tiles_100
+  - first:
+      213: -4313931905974927438
+    second: fantasy_tiles_101
+  - first:
+      213: 3911811671848234749
+    second: fantasy_tiles_102
+  - first:
+      213: 8364830903828377441
+    second: fantasy_tiles_103
+  - first:
+      213: 6386929864151192966
+    second: fantasy_tiles_104
+  - first:
+      213: 3763674040620601761
+    second: fantasy_tiles_105
+  - first:
+      213: -1363796004802136807
+    second: fantasy_tiles_106
+  - first:
+      213: 8768509404414212370
+    second: fantasy_tiles_107
+  - first:
+      213: 2912627944014712382
+    second: fantasy_tiles_108
+  - first:
+      213: 872800472114551169
+    second: fantasy_tiles_109
+  - first:
+      213: -5031901672827469764
+    second: fantasy_tiles_110
+  - first:
+      213: -8379986918972012413
+    second: fantasy_tiles_111
+  - first:
+      213: 4750820162102424140
+    second: fantasy_tiles_112
+  - first:
+      213: 9144348831692426751
+    second: fantasy_tiles_113
+  - first:
+      213: -957136194275475423
+    second: fantasy_tiles_114
+  - first:
+      213: 1838113676675470332
+    second: fantasy_tiles_115
+  - first:
+      213: 1121191087407377828
+    second: fantasy_tiles_116
+  - first:
+      213: 6045571398959103142
+    second: fantasy_tiles_117
+  - first:
+      213: 5460942847204876011
+    second: fantasy_tiles_118
+  - first:
+      213: -4596729424835440426
+    second: fantasy_tiles_119
+  - first:
+      213: 1698493758550958164
+    second: fantasy_tiles_120
+  - first:
+      213: 1444197542450990167
+    second: fantasy_tiles_121
+  - first:
+      213: -8199465005916685472
+    second: fantasy_tiles_122
+  - first:
+      213: -3689597252480986308
+    second: fantasy_tiles_123
+  - first:
+      213: -5088264257297599049
+    second: fantasy_tiles_124
+  - first:
+      213: 6293902130156893308
+    second: fantasy_tiles_125
+  - first:
+      213: 6634502241509655530
+    second: fantasy_tiles_126
+  - first:
+      213: 8665283850650333737
+    second: fantasy_tiles_127
+  - first:
+      213: 898515397612384556
+    second: fantasy_tiles_128
+  - first:
+      213: 8363777326486843767
+    second: fantasy_tiles_129
+  - first:
+      213: 6416910283432261602
+    second: fantasy_tiles_130
+  - first:
+      213: -7190749355205361181
+    second: fantasy_tiles_131
+  - first:
+      213: -7372682061392482705
+    second: fantasy_tiles_132
+  - first:
+      213: 2145088594755984446
+    second: fantasy_tiles_133
+  - first:
+      213: -7818350282575336256
+    second: fantasy_tiles_134
+  - first:
+      213: 8840924937928803129
+    second: fantasy_tiles_135
+  - first:
+      213: 5865097387404774553
+    second: fantasy_tiles_136
+  - first:
+      213: -4855892560324546053
+    second: fantasy_tiles_137
+  - first:
+      213: 5330984764602400024
+    second: fantasy_tiles_138
+  - first:
+      213: -7325447210429862053
+    second: fantasy_tiles_139
+  - first:
+      213: -7262670780810661609
+    second: fantasy_tiles_140
+  - first:
+      213: 3238059720942736840
+    second: fantasy_tiles_141
+  - first:
+      213: -3906455068065835278
+    second: fantasy_tiles_142
+  - first:
+      213: -1053113971684594787
+    second: fantasy_tiles_143
+  - first:
+      213: 7113481488281417655
+    second: fantasy_tiles_144
+  - first:
+      213: 8901351340647465508
+    second: fantasy_tiles_145
+  - first:
+      213: 7807567941574872091
+    second: fantasy_tiles_146
+  - first:
+      213: 8529168171106258473
+    second: fantasy_tiles_147
+  - first:
+      213: 1232088954082942479
+    second: fantasy_tiles_148
+  - first:
+      213: -1360266082442164443
+    second: fantasy_tiles_149
+  - first:
+      213: -1201975469059157072
+    second: fantasy_tiles_150
+  - first:
+      213: 8038253956616103834
+    second: fantasy_tiles_151
+  - first:
+      213: -5140454538379046041
+    second: fantasy_tiles_152
+  - first:
+      213: -3363600213348948566
+    second: fantasy_tiles_153
+  - first:
+      213: -7580692708193483820
+    second: fantasy_tiles_154
+  - first:
+      213: -7618521819447404534
+    second: fantasy_tiles_155
+  - first:
+      213: 8405294738025500166
+    second: fantasy_tiles_156
+  - first:
+      213: 848946326751462303
+    second: fantasy_tiles_157
+  - first:
+      213: 8221498665227357458
+    second: fantasy_tiles_158
+  - first:
+      213: -2958060124396763901
+    second: fantasy_tiles_159
+  - first:
+      213: 2390712143771694596
+    second: fantasy_tiles_160
+  - first:
+      213: 6210484001650929416
+    second: fantasy_tiles_161
+  - first:
+      213: 679082175562937743
+    second: fantasy_tiles_162
+  - first:
+      213: 5921909979018529869
+    second: fantasy_tiles_163
+  - first:
+      213: -4633932924451316378
+    second: fantasy_tiles_164
+  - first:
+      213: 5074466512508245519
+    second: fantasy_tiles_165
+  - first:
+      213: 5175848399077849065
+    second: fantasy_tiles_166
+  - first:
+      213: -3956631729183350915
+    second: fantasy_tiles_167
+  - first:
+      213: -5519624529695123882
+    second: fantasy_tiles_168
+  - first:
+      213: -551851204356649253
+    second: fantasy_tiles_169
+  - first:
+      213: 5323106045789231326
+    second: fantasy_tiles_170
+  - first:
+      213: -3659550914553223169
+    second: fantasy_tiles_171
+  - first:
+      213: 4393362669363831507
+    second: fantasy_tiles_172
+  - first:
+      213: -4327262941853950550
+    second: fantasy_tiles_173
+  - first:
+      213: 5899210622548843193
+    second: fantasy_tiles_174
+  - first:
+      213: -2703112343367609786
+    second: fantasy_tiles_175
+  - first:
+      213: -846987619369140213
+    second: fantasy_tiles_176
+  - first:
+      213: -5782908118633610918
+    second: fantasy_tiles_177
+  - first:
+      213: -6154198376813894825
+    second: fantasy_tiles_178
+  - first:
+      213: -8349871164927994831
+    second: fantasy_tiles_179
+  - first:
+      213: -715059178368324092
+    second: fantasy_tiles_180
+  - first:
+      213: 4043131639634704673
+    second: fantasy_tiles_181
+  - first:
+      213: 8130872038930370570
+    second: fantasy_tiles_182
+  - first:
+      213: 705344146920336691
+    second: fantasy_tiles_183
+  - first:
+      213: 6536741391424026752
+    second: fantasy_tiles_184
+  - first:
+      213: 4852061038551823005
+    second: fantasy_tiles_185
+  - first:
+      213: -7171484488029400757
+    second: fantasy_tiles_186
+  - first:
+      213: -3914386759407716974
+    second: fantasy_tiles_187
+  - first:
+      213: 4673260827328992440
+    second: fantasy_tiles_188
+  - first:
+      213: -571725507333952865
+    second: fantasy_tiles_189
+  - first:
+      213: -6385000183862148880
+    second: fantasy_tiles_190
+  - first:
+      213: 969852553613235674
+    second: fantasy_tiles_191
+  - first:
+      213: -2560169407124393813
+    second: fantasy_tiles_192
+  - first:
+      213: 7378075145312567250
+    second: fantasy_tiles_193
+  - first:
+      213: -6501891541626790033
+    second: fantasy_tiles_194
+  - first:
+      213: 3906196569160248247
+    second: fantasy_tiles_195
+  - first:
+      213: -8292298433399925812
+    second: fantasy_tiles_196
+  - first:
+      213: 1893808007982904076
+    second: fantasy_tiles_197
+  - first:
+      213: 9148428498891704453
+    second: fantasy_tiles_198
+  - first:
+      213: -1686413617263089774
+    second: fantasy_tiles_199
+  - first:
+      213: -8196989952017609769
+    second: fantasy_tiles_200
+  - first:
+      213: -3594811158906852676
+    second: fantasy_tiles_201
+  - first:
+      213: 7836336888155487018
+    second: fantasy_tiles_202
+  - first:
+      213: -9201438376682147176
+    second: fantasy_tiles_203
+  - first:
+      213: -5458424904042104199
+    second: fantasy_tiles_204
+  - first:
+      213: 1564133357631698624
+    second: fantasy_tiles_205
+  - first:
+      213: 6919192922563733744
+    second: fantasy_tiles_206
+  - first:
+      213: 6296671077405926633
+    second: fantasy_tiles_207
+  - first:
+      213: 5889509137165016937
+    second: fantasy_tiles_208
+  - first:
+      213: -1763566744895970377
+    second: fantasy_tiles_209
+  - first:
+      213: 7652628911628163543
+    second: fantasy_tiles_210
+  - first:
+      213: -8721863975879957622
+    second: fantasy_tiles_211
+  - first:
+      213: -4911342936126943478
+    second: fantasy_tiles_212
+  - first:
+      213: 796944243105628061
+    second: fantasy_tiles_213
+  - first:
+      213: 3595213322558632141
+    second: fantasy_tiles_214
+  - first:
+      213: -1394164272157679622
+    second: fantasy_tiles_215
+  - first:
+      213: 3111316133752739000
+    second: fantasy_tiles_216
+  - first:
+      213: 3874671746319596661
+    second: fantasy_tiles_217
+  - first:
+      213: -9005536986124061741
+    second: fantasy_tiles_218
+  - first:
+      213: -284422751237924297
+    second: fantasy_tiles_219
+  - first:
+      213: -4339657530224263585
+    second: fantasy_tiles_220
+  - first:
+      213: 1057895848500389886
+    second: fantasy_tiles_221
+  - first:
+      213: -1649758383782082527
+    second: fantasy_tiles_222
+  - first:
+      213: 4316948602554453970
+    second: fantasy_tiles_223
+  - first:
+      213: 2608734208588752437
+    second: fantasy_tiles_224
+  - first:
+      213: -3513839239611320931
+    second: fantasy_tiles_225
+  - first:
+      213: -4789710420722520919
+    second: fantasy_tiles_226
+  - first:
+      213: 6553579296294261575
+    second: fantasy_tiles_227
+  - first:
+      213: 932659386603226421
+    second: fantasy_tiles_228
+  - first:
+      213: 5153637029347652279
+    second: fantasy_tiles_229
+  - first:
+      213: 1842353425447149227
+    second: fantasy_tiles_230
+  - first:
+      213: 6374349952522299035
+    second: fantasy_tiles_231
+  - first:
+      213: 2457069489347351452
+    second: fantasy_tiles_232
+  - first:
+      213: 4739686827473766611
+    second: fantasy_tiles_233
+  - first:
+      213: 7610460215300710678
+    second: fantasy_tiles_234
+  - first:
+      213: 1192735562377985588
+    second: fantasy_tiles_235
+  - first:
+      213: 1676126532838236935
+    second: fantasy_tiles_236
+  - first:
+      213: -4764685006490672848
+    second: fantasy_tiles_237
+  - first:
+      213: -4991793370882871404
+    second: fantasy_tiles_238
+  - first:
+      213: -6203856783975831157
+    second: fantasy_tiles_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643ff30f30d983a0800000000000000
+      internalID: -6662565204649364380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce372587116679e0800000000000000
+      internalID: -1624003861974401332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994e161fcdabc640800000000000000
+      internalID: 5101362107868137874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f69ef4264554950800000000000000
+      internalID: 6432640423992848145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e6ab1d06ca4270800000000000000
+      internalID: 8235612628201169333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a70cb17b5c81630800000000000000
+      internalID: 3898082867724450358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b82e1d04154840800000000000000
+      internalID: 5207590590696960705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507b0d1847adb0a30800000000000000
+      internalID: 4182676872872638213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29fae5bb6889c400800000000000000
+      internalID: 344956842665507116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ab66974bc4de10800000000000000
+      internalID: 2221624024527250616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bbaecd213e3c740800000000000000
+      internalID: 5171226467306748785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16d6ed2e4741420800000000000000
+      internalID: 2599831402642760102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b8f5de3fda3150800000000000000
+      internalID: 5853236126692193188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea896d29151d54180800000000000000
+      internalID: -9131662521137719122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9190e51ded4d5d80800000000000000
+      internalID: -8260360460857994852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e8bbc8904749870800000000000000
+      internalID: 8688697165469159034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491d48fff766cd60800000000000000
+      internalID: 7910124144602978632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6cc22af5bab340800000000000000
+      internalID: 4880413232139628179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449a17a9652a7c60800000000000000
+      internalID: 7816601238960247882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d375e2a37d3afd0800000000000000
+      internalID: -2331783537162240698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6153eee888c66530800000000000000
+      internalID: 3847983422083649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5c6a85b41aba10800000000000000
+      internalID: 1925874560598302333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f46c2467fb18d90800000000000000
+      internalID: -7097181023111852194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215ca30a98bea7d0800000000000000
+      internalID: -2905181737981292253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc78178f64355e0800000000000000
+      internalID: -1922114583086510329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35278e3c2c5dc7290800000000000000
+      internalID: -7891197414572789165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049e772ba10f8110800000000000000
+      internalID: 1265231854928040971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99370935521342330800000000000000
+      internalID: 3685124431481435033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9127e8a413c360800000000000000
+      internalID: 7188612145878244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055efef73533ff1b0800000000000000
+      internalID: -5620717376213359280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0445b8bd9701ee0800000000000000
+      internalID: -1292399109212978999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d296ce51f5dd6020800000000000000
+      internalID: 2336759014329062104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f7e72d4444fc40800000000000000
+      internalID: 5545132139372607176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29660b9d7498314f0800000000000000
+      internalID: -859192162209732974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b0dd8449dbc600800000000000000
+      internalID: 489723872960099725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c5955f742f04b0800000000000000
+      internalID: -5472114892916538281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a3da0ee94eb6e0800000000000000
+      internalID: -1819935912678416116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb16b193c1d37c0800000000000000
+      internalID: -4090081854984438656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2eaaca135c9f690800000000000000
+      internalID: -7567800881678458113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae037bb6a1dc64380800000000000000
+      internalID: -8987270493011234582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f927ff595f5e10800000000000000
+      internalID: 2188566212628838455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a0cc6c4b82c390800000000000000
+      internalID: -7799518444293939078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f5aeadf03f16b0800000000000000
+      internalID: -5323482368413665917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c216a1d1bf7522db0800000000000000
+      internalID: -4818191915296333524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82170481a36f930800000000000000
+      internalID: 4176589580267497674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d88784dbd0026b0800000000000000
+      internalID: -5323239652936086166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fbf6548009b1670800000000000000
+      internalID: 8510554286045773664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24f3e6bd85fcf400800000000000000
+      internalID: 359432059290383405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ab0c0d6ed198e0800000000000000
+      internalID: -1688323825352332819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c4e39e3ec9df40800000000000000
+      internalID: 5753856767107057495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81dda324bd03c00800000000000000
+      internalID: 878443004839139566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948436cf057d7260800000000000000
+      internalID: 7096957298416059539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82b576516c74ad0800000000000000
+      internalID: -2717986054864164682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3debef48421351f0800000000000000
+      internalID: -1057481385714127556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c095a8762eb67580800000000000000
+      internalID: -8829660946971127614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e008e2adba365c60800000000000000
+      internalID: 7806491590249677033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e393a53817bc4160800000000000000
+      internalID: 7011180034516030434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f3b8338ef6dcc80800000000000000
+      internalID: -8300855495086096627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30e8bba88512f10800000000000000
+      internalID: 2243171442282595243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69ce9bdd52d50b0800000000000000
+      internalID: -5738388715962853683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b298e7b1a44096580800000000000000
+      internalID: -8833524477775148757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098251ec82faf25d0800000000000000
+      internalID: -3085054629934454640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4c5691bb3f00a0800000000000000
+      internalID: -6913241269072540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98501d19fa1e1c050800000000000000
+      internalID: 5819180337721312649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbab2abcb998f360800000000000000
+      internalID: 7203676639835433930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d3e29f62e59cb0800000000000000
+      internalID: -4857727654215560844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabf686adb1e59d0800000000000000
+      internalID: -2783756894799414536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34344aa2c8e1d5d0800000000000000
+      internalID: -3039392350720478145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a0c33182da9e40800000000000000
+      internalID: 5664070933732697176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c50add849a7dd90800000000000000
+      internalID: -7072998559341061035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae282c16662c080800000000000000
+      internalID: -9168653321311687984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be996a0c40a8fb0800000000000000
+      internalID: -4644894840203908259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8895ab04cfefb0800000000000000
+      internalID: -4616255538729547154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89576f7c695b9ce0800000000000000
+      internalID: -1397424936839587441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d1bb9400273c40800000000000000
+      internalID: 5491893474765690471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716321f0b6b598120800000000000000
+      internalID: 2416563190433461783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de6e0a69fa27160800000000000000
+      internalID: 7021867830503468394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb109058c741ff060800000000000000
+      internalID: 6989327671742759359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b7d8059b80473a0800000000000000
+      internalID: -6668695556215440490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564f13f16cad8710800000000000000
+      internalID: 1697202171279263323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea45f1584c1f9ef0800000000000000
+      internalID: -99329569840608539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53bbf28639a270e0800000000000000
+      internalID: -2273568810277817507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6fd614f0a3c1b0800000000000000
+      internalID: -5637485338321523917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06f0dd213603370800000000000000
+      internalID: 8300243045913157887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf9aec2275de7f0800000000000000
+      internalID: -581712969853175083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f88b3c0ade4a40800000000000000
+      internalID: 5354456753063391836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771dd8c9e50ce6a70800000000000000
+      internalID: 8822200232651379063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c5f8869a9f04e0800000000000000
+      internalID: -2013220537077742151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7c54d0fd02a330800000000000000
+      internalID: 3720551570167594009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d20554ac0c28590800000000000000
+      internalID: -7673358840107094747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5988c47dc92c9b80800000000000000
+      internalID: -8386782443666372257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e4a61b5e39e5510800000000000000
+      internalID: 1539830737340616244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1beba5b5c0f8de90800000000000000
+      internalID: -7000580888800269541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fd5f2a42f2ef10800000000000000
+      internalID: 2297665160348562127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066041c7a3972500800000000000000
+      internalID: 371427842992399881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1af1754450a600800000000000000
+      internalID: 477474217742966437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24aa9aee553ee10800000000000000
+      internalID: 2225717124388242136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d0b3beca393e20800000000000000
+      internalID: 3330758058869578119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7f7cfab50862c0800000000000000
+      internalID: -4438291132115353630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa593a038cd762500800000000000000
+      internalID: 371122318067602858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a33dcab690bbe20800000000000000
+      internalID: 3367295504455252566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff327a9c5d124c0800000000000000
+      internalID: -4313931905974927438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeadb86dfb894630800000000000000
+      internalID: 3911811671848234749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f66e46369d51470800000000000000
+      internalID: 8364830903828377441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d01e3fdee2a850800000000000000
+      internalID: 6386929864151192966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dc8169914b3430800000000000000
+      internalID: 3763674040620601761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915fba362c2d21de0800000000000000
+      internalID: -1363796004802136807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f7c388d000b970800000000000000
+      internalID: 8768509404414212370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8fddeeabbb6820800000000000000
+      internalID: 2912627944014712382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1895e24b76fcc1c00800000000000000
+      internalID: 872800472114551169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30cc66b6181b2ab0800000000000000
+      internalID: -5031901672827469764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c048db4e44bb80800000000000000
+      internalID: -8379986918972012413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f0e934cd4ee140800000000000000
+      internalID: 4750820162102424140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd094740d047ee70800000000000000
+      internalID: 9144348831692426751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208a82d3b197b2f0800000000000000
+      internalID: -957136194275475423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3570376aa428910800000000000000
+      internalID: 1838113676675470332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad204a8a554f8f00800000000000000
+      internalID: 1121191087407377828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf733182f26e350800000000000000
+      internalID: 6045571398959103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5b52169a29cb40800000000000000
+      internalID: 5460942847204876011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0191051f22530c0800000000000000
+      internalID: -4596729424835440426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e5ab0313429710800000000000000
+      internalID: 1698493758550958164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c884f5302da0410800000000000000
+      internalID: 1444197542450990167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf61e0506a53e80800000000000000
+      internalID: -8199465005916685472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331d91e8daebccc0800000000000000
+      internalID: -3689597252480986308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b574ed9ad269b0800000000000000
+      internalID: -5088264257297599049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74731f04ae685750800000000000000
+      internalID: 6293902130156893308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae347b633ac721c50800000000000000
+      internalID: 6634502241509655530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92231f360c5414870800000000000000
+      internalID: 8665283850650333737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b7eb5efa287c00800000000000000
+      internalID: 898515397612384556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f6bd4a2b121470800000000000000
+      internalID: 8363777326486843767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7f78f87e17d0950800000000000000
+      internalID: 6416910283432261602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18d164f83553c90800000000000000
+      internalID: -7190749355205361181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e6ec03ab8fea990800000000000000
+      internalID: -7372682061392482705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1c2636b2e4cd10800000000000000
+      internalID: 2145088594755984446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca58567d3af7390800000000000000
+      internalID: -7818350282575336256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933832bc36641ba70800000000000000
+      internalID: 8840924937928803129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c455dcff2056150800000000000000
+      internalID: 5865097387404774553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b46aa1776c9cb0800000000000000
+      internalID: -4855892560324546053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d352d06667bf940800000000000000
+      internalID: 5330984764602400024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fa371f298c65a90800000000000000
+      internalID: -7325447210429862053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fb25776fc53b90800000000000000
+      internalID: -7262670780810661609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5da440926efec20800000000000000
+      internalID: 3238059720942736840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f659e810db79c9c0800000000000000
+      internalID: -3906455068065835278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b2db12c669261f0800000000000000
+      internalID: -1053113971684594787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b45989b928b260800000000000000
+      internalID: 7113481488281417655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224d3802e3f78b70800000000000000
+      internalID: 8901351340647465508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4c453dad0a5c60800000000000000
+      internalID: 7807567941574872091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4b5c1341bd5670800000000000000
+      internalID: 8529168171106258473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0edbc73062491110800000000000000
+      internalID: 1232088954082942479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c50c743d5f1de0800000000000000
+      internalID: -1360266082442164443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3def1eda9b15fe0800000000000000
+      internalID: -1201975469059157072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972b72926d9d8f60800000000000000
+      internalID: 8038253956616103834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635fd725df69a8b0800000000000000
+      internalID: -5140454538379046041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa568e45d671251d0800000000000000
+      internalID: -3363600213348948566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cbb86528fbc690800000000000000
+      internalID: -7580692708193483820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08564615c2954690800000000000000
+      internalID: -7618521819447404534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e4874f70b95a470800000000000000
+      internalID: 8405294738025500166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c46faf2018cb00800000000000000
+      internalID: 848946326751462303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d89360a71a81270800000000000000
+      internalID: 8221498665227357458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30545154dfbd2f6d0800000000000000
+      internalID: -2958060124396763901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40679b937048d2120800000000000000
+      internalID: 2390712143771694596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f66a18b42103650800000000000000
+      internalID: 6210484001650929416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857ab704a59c6900800000000000000
+      internalID: 679082175562937743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c8d3310c9de2250800000000000000
+      internalID: 5921909979018529869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d971d8e86f0bfb0800000000000000
+      internalID: -4633932924451316378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065bae48602c6640800000000000000
+      internalID: 5074466512508245519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73f4632be44d740800000000000000
+      internalID: 5175848399077849065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9cfac7683719c0800000000000000
+      internalID: -3956631729183350915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6565df50cba5663b0800000000000000
+      internalID: -5519624529695123882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4373e04e6758f0800000000000000
+      internalID: -551851204356649253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed85001eeb87fd940800000000000000
+      internalID: 5323106045789231326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7699415d9a63dc0800000000000000
+      internalID: -3659550914553223169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a4ec121c58fc30800000000000000
+      internalID: 4393362669363831507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad551df74972f3c0800000000000000
+      internalID: -4327262941853950550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba1c3c4ec43ed150800000000000000
+      internalID: 5899210622548843193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642999935ad9c7ad0800000000000000
+      internalID: -2703112343367609786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_176
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00495a6f35ee34f0800000000000000
+      internalID: -846987619369140213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_177
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510f1c84bbfebfa0800000000000000
+      internalID: -5782908118633610918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_178
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e8b0ce25e79aa0800000000000000
+      internalID: -6154198376813894825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_179
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134903e3a6c4f1c80800000000000000
+      internalID: -8349871164927994831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e29ff37799316f0800000000000000
+      internalID: -715059178368324092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b1980ec61c1830800000000000000
+      internalID: 4043131639634704673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d99a4a09a6d070800000000000000
+      internalID: 8130872038930370570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6699b3c2e9c900800000000000000
+      internalID: 705344146920336691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088fb6099ab27ba50800000000000000
+      internalID: 6536741391424026752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f467aecbf55340800000000000000
+      internalID: 4852061038551823005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4198c2bad4c97c90800000000000000
+      internalID: -7171484488029400757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b20c4bfd4da9c0800000000000000
+      internalID: -3914386759407716974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b451b366f1cad040800000000000000
+      internalID: 4673260827328992440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a64522ea2d018f0800000000000000
+      internalID: -571725507333952865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_190
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0c716792ce367a0800000000000000
+      internalID: -6385000183862148880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55f9e42cb957d00800000000000000
+      internalID: 969852553613235674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_192
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba037831d73787cd0800000000000000
+      internalID: -2560169407124393813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_193
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7e720140346660800000000000000
+      internalID: 7378075145312567250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_194
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fd7356714a4c5a0800000000000000
+      internalID: -6501891541626790033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_195
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb65af6519953630800000000000000
+      internalID: 3906196569160248247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_196
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35ba16286dbec80800000000000000
+      internalID: -8292298433399925812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_197
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037c947958284a10800000000000000
+      internalID: 1893808007982904076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880081df3fb5fe70800000000000000
+      internalID: 9148428498891704453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_199
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e6a600c7a898e0800000000000000
+      internalID: -1686413617263089774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4b8271117e3e80800000000000000
+      internalID: -8196989952017609769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2fbe0c4aac1ec0800000000000000
+      internalID: -3594811158906852676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3cce81e240cc60800000000000000
+      internalID: 7836336888155487018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b6373c8ced4080800000000000000
+      internalID: -9201438376682147176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abc614877cf34b0800000000000000
+      internalID: -5458424904042104199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f9fa600be4b510800000000000000
+      internalID: 1564133357631698624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8eec9bd49e50060800000000000000
+      internalID: 6919192922563733744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a144dbf4426750800000000000000
+      internalID: 6296671077405926633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f53263b5dbbb150800000000000000
+      internalID: 5889509137165016937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a8c8a36d8687e0800000000000000
+      internalID: -1763566744895970377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_210
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d91b732379933a60800000000000000
+      internalID: 7652628911628163543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_211
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a832662ace6b5f680800000000000000
+      internalID: -8721863975879957622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_212
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f870afe9767dbb0800000000000000
+      internalID: -4911342936126943478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_213
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7a1411905f0b00800000000000000
+      internalID: 796944243105628061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fbd6f773c4e130800000000000000
+      internalID: 3595213322558632141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff10872bfee6ace0800000000000000
+      internalID: -1394164272157679622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b416480a8d9d2b20800000000000000
+      internalID: 3111316133752739000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_217
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3f94ac6995c530800000000000000
+      internalID: 3874671746319596661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3fe6213d7e50380800000000000000
+      internalID: -9005536986124061741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9c62c3078d0cf0800000000000000
+      internalID: -284422751237924297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3220087076c3c0800000000000000
+      internalID: -4339657530224263585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e9335ba66eae00800000000000000
+      internalID: 1057895848500389886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284271ad71ea19e0800000000000000
+      internalID: -1649758383782082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df80e0c1e1e8eb30800000000000000
+      internalID: 4316948602554453970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a758e0f5143420800000000000000
+      internalID: 2608734208588752437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95732524d55c3fc0800000000000000
+      internalID: -3513839239611320931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace8d3dfb7878db0800000000000000
+      internalID: -4789710420722520919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74359fac5adf2fa50800000000000000
+      internalID: 6553579296294261575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354bea45c871fc00800000000000000
+      internalID: 932659386603226421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f093b295658740800000000000000
+      internalID: 5153637029347652279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5082edaa519910800000000000000
+      internalID: 1842353425447149227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ae12528d367850800000000000000
+      internalID: 6374349952522299035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93dff4bea3491220800000000000000
+      internalID: 2457069489347351452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_233
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80c22ce00c6c140800000000000000
+      internalID: 4739686827473766611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_234
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ed3e6e39cd9960800000000000000
+      internalID: 7610460215300710678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_235
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef382bca27d8010800000000000000
+      internalID: 1192735562377985588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_236
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032e6c733cc24710800000000000000
+      internalID: 1676126532838236935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_237
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316e712b3070edb0800000000000000
+      internalID: -4764685006490672848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_238
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6068706699bab0800000000000000
+      internalID: -4991793370882871404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_tiles_239
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8929b9df1977e9a0800000000000000
+      internalID: -6203856783975831157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
